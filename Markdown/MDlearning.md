@@ -113,6 +113,8 @@ a|b|c
 | Help | ~~Display the~~ help window.|
 | **Bold** | *Italic1*, *Italic2* |
 
+- Test alignment
+
 |default is left|left-aligned|right-aligned|cetered|
 |---|:---|---:|:---:|
 |a|b|c|d|
